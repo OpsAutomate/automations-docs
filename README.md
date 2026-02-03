@@ -1,21 +1,30 @@
-# n8n Automations Documentation
+# n8n Automations: Solution Index
 
-Index of all documented workflows using the impact-focused template (Problem, Solution, Flow, Result).
+Welcome to the central documentation for our n8n automation ecosystem. These documents bridge the technical logic of our n8n workflows with the business impact they deliver.
 
-| Workflow Name | Documentation Link |
-| --- | --- |
-| AssetOps Slack Admin Only | [AssetOps_Slack_Admin_Only.md](AssetOps_Slack_Admin_Only.md) |
-| EndCycle_Step 1 - Offboarding Notifcation | [EndCycle_Step_1_-_Offboarding_Notifcation.md](EndCycle_Step_1_-_Offboarding_Notifcation.md) |
-| EndCycle_Step 2 - Unsuspend User in GW - Schedule Trigger | [EndCycle_Step_2_-_Unsuspend_User_in_GW_-_Schedule_Trigger.md](EndCycle_Step_2_-_Unsuspend_User_in_GW_-_Schedule_Trigger.md) |
-| EndCycle_Step 3 - AFI Command Backup - Schedule Trigger | [EndCycle_Step_3_-_AFI_Command_Backup_-_Schedule_Trigger.md](EndCycle_Step_3_-_AFI_Command_Backup_-_Schedule_Trigger.md) |
-| EndCycle_Step 5 - Final Checker for Account Deletion - Schedule Trigger | [EndCycle_Step_5_-_Final_Checker_for_Account_Deletion_-_Schedule_Trigger.md](EndCycle_Step_5_-_Final_Checker_for_Account_Deletion_-_Schedule_Trigger.md) |
-| Gatekeeper | [Gatekeeper.md](Gatekeeper.md) |
-| HR <> Okta Disable Command | [HR__Okta_Disable_Command.md](HR__Okta_Disable_Command.md) |
-| MeetSync- Open Slack Modal | [MeetSync-_Open_Slack_Modal.md](MeetSync-_Open_Slack_Modal.md) |
-| MeetSync-cebu_manager | [MeetSync-cebu_manager.md](MeetSync-cebu_manager.md) |
-| MeetSync-manila_manager | [MeetSync-manila_manager.md](MeetSync-manila_manager.md) |
-| Okta Group <> n8n Project sync | [Okta_Group__n8n_Project_sync.md](Okta_Group__n8n_Project_sync.md) |
-| SaaS Manager | [SaaS_Manager.md](SaaS_Manager.md) |
-| SaaS Management Suite | [SaaS_Management.md](SaaS_Management.md) |
-| Step 4 - Google Account Step - Schedule Trigger | [Step_4_-_Google_Account_Step_-_Schedule_Trigger.md](Step_4_-_Google_Account_Step_-_Schedule_Trigger.md) |
-| Stuck Workflow in Guesty n8n | [Stuck_Workflow_in_Guesty_n8n.md](Stuck_Workflow_in_Guesty_n8n.md) |
+---
+
+## 🏛️ SaaS Governance
+Automated visibility and management for over 20+ SaaS platforms.
+- **[SaaS Governance Suite](SaaS_Governance.md)**: AI-powered Slack bot and integrated app metadata lookup.
+
+## 👤 User Lifecycle
+Secure and automated offboarding and account management.
+- **[User Lifecycle & Offboarding](User_Lifecycle.md)**: Includes the 5-step EndCycle pipeline and HR Disable command.
+
+## 🔄 Collaboration & Sync
+Keeping our teams and tools aligned in real-time.
+- **[Sync Utilities & Translation](Sync_Utilities.md)**: Okta-to-Slack project sync and office resource management (MeetSync).
+
+## 🛠️ IT Operations & Health
+Administrative efficiency and system monitoring.
+- **[IT Operations & System Health](IT_Operations_Health.md)**: Asset assignment, JIT access (Gatekeeper), and n8n monitor.
+
+---
+
+### Internal Resources
+*For instructions on how to manage this repository:*
+- [Git Usage Guide](https://github.com/OpsAutomate/n8n/blob/main/GIT_GUIDE.md) (Private Repository Only)
+
+---
+*Built & Maintained by the IT Automation Team*
