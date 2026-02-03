@@ -22,9 +22,4 @@ Administrative efficiency and system monitoring.
 
 ---
 
-### Internal Resources
-*For instructions on how to manage this repository:*
-- [Git Usage Guide](https://github.com/OpsAutomate/n8n/blob/main/GIT_GUIDE.md) (Private Repository Only)
-
----
 *Managed by Louie Mendez | IT Automations*
