@@ -21,4 +21,4 @@ Automatically identifies and reports workflows that are queued or "stuck" in a r
 - **Result**: proactive alerts to IT teams before system bottlenecks affect end-users.
 
 ---
-*Powered by IT Automation*
+*Managed by Louie Mendez | IT Automations*

@@ -48,4 +48,4 @@ A specialized workflow that connects directly to the master SaaS Inventory on Mo
 - **SaaS Specific**: Loom, Miro, Notion, MixMax, Unleash, Pendo.
 
 ---
-*Powered by IT Automation*
+*Managed by Louie Mendez | IT Automations*

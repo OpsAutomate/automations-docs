@@ -32,4 +32,4 @@ Provides a Slack-based interface for managing meeting room requests and resource
 - **Result**: Self-service resource management directly in the company's primary communication tool.
 
 ---
-*Powered by IT Automation*
+*Managed by Louie Mendez | IT Automations*

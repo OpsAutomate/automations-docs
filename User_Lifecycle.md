@@ -46,4 +46,4 @@ A multi-stage scheduled process that handles the heavy lifting of data transfer 
 - **Efficiency**: Replaces hours of manual checklist work per offboarded employee.
 
 ---
-*Powered by IT Automation*
+*Managed by Louie Mendez | IT Automations*

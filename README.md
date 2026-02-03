@@ -27,4 +27,4 @@ Administrative efficiency and system monitoring.
 - [Git Usage Guide](https://github.com/OpsAutomate/n8n/blob/main/GIT_GUIDE.md) (Private Repository Only)
 
 ---
-*Built & Maintained by the IT Automation Team*
+*Managed by Louie Mendez | IT Automations*
